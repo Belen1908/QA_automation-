@@ -1,7 +1,7 @@
 # QA Automation con Cypress  (ง ͡❛ ͜ʖ ͡❛)ง
 
-Este repositorio contiene proyectos y ejemplos prácticos de automatización de pruebas (QA Automation) utilizando Cypress y Cursor.
-Forma parte de mi proceso de capacitación en XAcademy, donde estoy aprendiendo y aplicando buenas prácticas de testing automatizado.
+Este repositorio contiene mis proyectos y ejemplos prácticos de la XAcademy de QA Automation utilizando Cypress y Cursor.
+Forma parte de mi proceso de capacitación en donde estoy aprendiendo y aplicando buenas prácticas de testing automatizado.
 
 (ง ͡❛ ⏥ ͡❛)ง  → Objetivos del repositorio
     
