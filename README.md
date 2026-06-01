@@ -5,11 +5,13 @@ Forma parte de mi proceso de capacitación en donde estoy aprendiendo y aplicand
 
 (ง ͡❛ ⏥ ͡❛)ง  → Objetivos del repositorio
     
-    * Implementar pruebas automatizadas de frontend con Cypress.
+    * Implementar pruebas automatizadas con Cypress.
+
+    * Implementar API testing con Postman
 
     * Integrar el flujo de trabajo con Cursor para mejorar la productividad.
 
-    * Documentar aprendizajes y ejemplos de la capacitación en XAcademi.
+    * Documentar aprendizajes y ejemplos de la capacitación en XAcademy.
 
     * Crear una base sólida para futuros proyectos de QA Automation.
 
