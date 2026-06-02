@@ -25,7 +25,7 @@ Forma parte de mi proceso de capacitación en donde estoy aprendiendo y aplicand
 
 
 (ง︡* .*︠)ง   → Aprendizajes de la capacitación
-Durante la formación en XAcademi: 
+Durante la formación en XAcademy: 
 
     * Diseño de casos de prueba automatizados.
 
